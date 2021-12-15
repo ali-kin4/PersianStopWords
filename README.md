@@ -1,0 +1,1 @@
+# PersianStopWords
